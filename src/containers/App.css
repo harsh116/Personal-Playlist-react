@@ -219,6 +219,7 @@ body{
   margin-bottom: 0px;
   cursor: pointer;
   transition: 1s;
+  object-fit: fill;
 
     
 }
