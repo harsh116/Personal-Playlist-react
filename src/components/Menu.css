@@ -1,0 +1,154 @@
+
+
+nav ul{
+		/*width: 12rem;*/
+		background: linear-gradient(to right, rgb(90, 107, 119), rgb(66, 77, 56));
+		/*position: absolute;*/
+		top: .7rem;
+		
+		z-index: 2;		
+	}
+
+	nav ul li{
+		display: block;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}	
+
+	nav ul li p{
+		color: #fff;
+		cursor: pointer;
+	}
+
+	nav ul li p:hover{
+		color: #E2FDAC;
+	}
+
+	.menu-icon{
+		display: none;
+		height: 0.8rem;
+		cursor: pointer;
+		margin-top: .3rem;
+		color: white;
+		position: fixed;
+		font-size: 2rem;
+	}
+	#menuList{
+		overflow: hidden;
+		transition: 0.5s;
+		box-sizing: border-box;
+		/*max-width: 0;*/
+		/*padding-left: 0;*/
+		position: fixed;
+		top: 2rem;
+	}
+
+	.menu-icon:hover{
+		/*color: #8C9EA0;*/
+		color: black;
+		/*background-color: rgb(137, 146, 107,.5);*/
+		background-color: rgb(255,255,255,.1);
+	}
+
+.maxWidth-increase
+{
+	width: 0rem ;
+}
+.maxWidth-decrease
+{
+	width: 0rem;
+}
+
+.paddingLeft-increase{
+	padding-left: 0rem ;
+}
+.paddingLeft-decrease{
+	padding-left: 0rem;
+}
+
+@media only screen and (min-width: 700px)
+{
+	.maxWidth-increase
+{
+	width: 0rem !important;
+}
+.paddingLeft-increase{
+	padding-left: 0rem !important;
+}
+}
+	
+
+@media only screen and (max-width: 700px) and (min-width: 400px)
+{
+	.openbtn{
+		display: none;
+	}
+
+	.repeatbtn{
+		display: none;
+	}
+
+	.quality{
+		display: none;
+	}
+
+	.menu-icon{
+		display: inline-block;
+		height:  3rem;
+		width: 3rem;
+	}
+}
+
+.maxWidth-increase
+{
+	width: 10rem ;
+}
+.maxWidth-decrease
+{
+	width: 0rem;
+}
+
+.paddingLeft-increase{
+	padding-left: 1rem ;
+}
+.paddingLeft-decrease{
+	padding-left: 0rem;
+}
+   
+
+@media only screen and (max-width: 400px)
+{
+	.openbtn{
+		display: none;
+	}
+
+	.repeatbtn{
+		display: none;
+	}
+
+	.quality{
+		display: none;
+	}
+	.menu-icon{
+		display: inline-block;
+		height:  3rem;
+		width: 3rem;
+	}
+
+.maxWidth-increase
+{
+	width: 10rem ;
+}
+.paddingLeft-increase{
+	padding-left: 1rem ;
+
+}
+
+.maxWidth-decrease
+{
+	width: 0rem;
+}
+.paddingLeft-decrease{
+	padding-left: 0rem;
+}
+}

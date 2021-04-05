@@ -1,0 +1,37 @@
+.increase-width{
+	width: 18rem;
+}
+
+.reduce-width{
+	width: 0rem;
+}
+
+#reset{
+	background-color: #870300;
+	color: white;
+	cursor: pointer;
+}
+
+#reset:hover{
+	-webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}
+
+.scrollable{
+	overflow-y: auto;
+	height: 100%;
+}
+
+#title{
+	font-family: 'Rubik', sans-serif;
+	font-weight: bold;
+}
+
+@media only screen and (max-width: 400px)
+{
+	.increase-width{
+		width: 12rem;
+	}
+}

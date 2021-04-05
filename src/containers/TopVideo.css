@@ -1,0 +1,113 @@
+.dib{
+	display: inline-block;
+}
+
+.ma-auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.flexy
+{
+	display: flex;
+	/*justify-content: center;*/
+
+}
+
+.limitwidth{
+	width: 50%;
+}
+
+.tc{
+	text-align: center;
+}
+
+.videocrossbtn
+{
+	font-size: 2rem;
+	z-index: 2;
+	color: white;
+	cursor: pointer;
+	width: 2rem;
+	position: relative;
+	top: 2.5rem;
+	right: 1rem;
+	margin-top: -2.5rem;
+	transition: 0.5s ease-in-out;
+	background-color: rgb(138, 149, 125,0.3);
+}
+
+.videocrossbtn:hover{
+	background-color: rgb(138, 149, 125,1);
+}
+
+.at-end{
+	margin-left: auto;
+}
+
+.nextBtn,.prevBtn{
+	z-index: 2;
+	font-size: 2rem;
+	color:rgb(255,255,255,1);
+	cursor: pointer;
+	width: 2rem;
+	position: relative;
+	transition: 0.1s ease-in-out;
+	background-color: rgb(138, 149, 125,0.3);
+}
+
+
+.nextBtn{
+	top: 19rem;
+	margin-top: -5rem;
+
+}
+
+.prevBtn{
+	top: 16.5rem;
+}
+
+.nextBtn:hover,.prevBtn:hover{
+	background-color: rgb(138, 149, 125,0.7);
+}
+
+.topVideoResolution{
+	width: 900px;
+	height: 580px;
+}
+
+@media only screen and (max-width: 700px) and (min-width: 400px)
+{
+	.topVideoResolution{
+	width: 550px;
+	height: 300px;
+}
+
+	.nextBtn{
+		top: 10rem;
+		/*margin-top: -5rem;*/
+
+	}
+
+	.prevBtn{
+		top: 7.5rem;
+	}
+}
+
+@media only screen and (max-width: 400px)
+{
+	.topVideoResolution{
+	width: 350px;
+	height: 240px;
+	}
+
+	.nextBtn{
+	top: 8rem;
+	/*margin-top: -5rem;*/
+
+}
+
+	.prevBtn{
+		top: 5.5rem;
+	}
+}
