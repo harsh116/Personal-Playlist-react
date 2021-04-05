@@ -154,9 +154,9 @@ body{
   /*padding: 40px;*/
   /*border-size: 10px;*/
   min-width:100%;
-  padding-bottom: 2rem;
+  padding-bottom: 2rem !important;
   background-color: rgb(29, 28, 36,0.8);
-  padding-top: 4rem;
+  padding-top: 4rem !important;
   margin-top: 0 !important;
   padding-left: auto;
   padding-right: auto;
