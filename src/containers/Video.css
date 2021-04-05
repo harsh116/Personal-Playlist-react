@@ -55,7 +55,7 @@
 	transition: opacity .3s ease-in-out, visibility .3s ease-in-out;
 	margin: 2rem;
 	
-	/*display: none;*/
+	display: none;
 }
 
 .overlay-visible{
