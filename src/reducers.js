@@ -89,17 +89,19 @@ export const reducer=(state=initialState,action={})=>
 									title: ''});
 			break;
 		case REQUEST_LYRICS:
-			if(state.isOpen===true)
-			{
+			// if(state.isOpen===true)
+			// {
 				let res={};
 				lyrics.forEach( function(element, i) {
 					// statements
 					if(element.title===action.payload)
 						res=element;
 				});
-				return Object.assign({},state,{lyrics: res.lyrics,title: res.title})
-			}
-			return state;
+				return Object.assign({},state,{lyrics: res.lyrics, title: res.title
+					,isOpen: true,paddingLeftVideos: true
+				})
+			// }
+			// return state;
 
 			break;
 		case PLAY_AT_TOP:

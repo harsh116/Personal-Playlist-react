@@ -6,9 +6,13 @@ import {aboutDatabase} from '../databases/aboutDatabase';
 
 function Video(props)
 {
+	let timeoutID='';
+	let timeoutID2='';
 	let setID='';
 	let f=0;
 	let fref=useRef(f);
+	let timeout1Ref=useRef(timeoutID);
+	let timeout2Ref=useRef(timeoutID2);
 	let overlayImage='', overlayDescription='';
 	aboutDatabase.forEach( function(element, index) {
 		// statements
@@ -20,7 +24,7 @@ function Video(props)
 	});
 
 	const [fade,setFade]=useState('');
-	const [visible,setVisible]=useState('overlay-hidden');
+	const [visible,setVisible]=useState('overlay-hidden none');
 	const [positionY,setPositionY]=useState(0);
 	const [positionX,setPositionX]=useState(0);
 	const [isOnOverlay,setIsOnOverlay]=useState(false);
@@ -33,12 +37,12 @@ function Video(props)
 		setFade('');
 	}
 
-	let body=document.querySelector("#root");
+	let body=document.querySelector("html");
 
 	//to reduce the glitch effect by clicking on body
 	body.addEventListener("click",()=>{
 		
-		setVisible('overlay-hidden');
+		setVisible('overlay-hidden none');
 	})
 
 	const onVideo=()=>
@@ -54,10 +58,12 @@ function Video(props)
 		// 		if(fref.current===0)
 		// 			setVisible('overlay-hidden');
 		// },5000)
-			
+			clearTimeout(timeout1Ref.current);
+			clearTimeout(timeout2Ref.current);
+
 			fref.current=0;
 			let positiony=video.offsetTop;
-			let newpositionY=positiony- 280;
+			let newpositionY=positiony- 270;
 
 			let positionx= video.offsetLeft;
 			let newpositionX=positionx-60 ;
@@ -65,7 +71,11 @@ function Video(props)
 			setPositionX(newpositionX);
 			setPositionY(newpositionY);
 
-			setVisible('overlay-visible');
+			setVisible('overlay-hidden')
+			setTimeout(()=>{
+				setVisible('overlay-visible');
+				},100)
+			
 		// 	setID=setTimeout(()=>{
 		// 		// debugger
 		// 		console.log('isOnOverlay: ',fref)
@@ -79,24 +89,39 @@ function Video(props)
 
 	const offVideo=()=>
 	{
+		// clearTimeout(timeout1Ref.current);
+		console.log('timeout1Ref',timeout1Ref)
 		console.log('offVideo event')
 		setVisible('overlay-hidden');
+		timeout1Ref.current= setTimeout(()=>{
+			setVisible('overlay-hidden none');
+		},500)
 		// window.clearTimeout(setID);
 	}
 
 	const onOverlay=()=>
 	{
 		// debugger
+		clearTimeout(timeout1Ref.current);
+		clearTimeout(timeout2Ref.current);
 		console.log('onOverlay event')
-		setVisible('overlay-visible');
+		setVisible('overlay-hidden')
 		setIsOnOverlay(true);
+		setTimeout(()=>{
+			setVisible('overlay-visible');
+		},100)
 		fref.current=1;
 	}
 
 	const offOverlay=()=>
 	{
+		//clearTimeout(timeout2Ref.current);
 		console.log('offOverlay event')
+
 		setVisible('overlay-hidden');
+		timeout2Ref.current= setTimeout(()=>{
+			setVisible('overlay-hidden none');
+		},500)
 		fref.current=0;
 		// setIsOnOverlay(false);
 	}
@@ -141,7 +166,7 @@ function Video(props)
 				<p> {overlayDescription}</p>
 			</div>
 			<div onMouseEnter={onVideo} onMouseLeave={offVideo}>
-			<video  className="border" id={props.id} width="320" height="240"   preload="none" poster={props.poster} 
+			<video  className="border videoResolution" id={props.id} preload="none" poster={props.poster} 
 			onPlay={props.onPlayVideo} onPause={props.onPauseVideo} onEnded={props.onVideoEnded} src={props.link}
 			controls
 			>
