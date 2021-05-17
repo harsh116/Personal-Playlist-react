@@ -1,7 +1,7 @@
 # Personal-Playlist-react
 https://harsh116.github.io/Personal-Playlist-react/
 
- <img src="https://drive.google.com/thumbnail?id=1zqKt7kcm65Y4wAAH6gzG33L-5GmUk04k" alt="lyrics panel" width="200"/>
+ <img src="https://drive.google.com/thumbnail?id=1zqKt7kcm65Y4wAAH6gzG33L-5GmUk04k" alt="lyrics panel" width="300"/>
 
 This website contains some of my favorite songs in grid format.
 
