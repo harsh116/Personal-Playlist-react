@@ -12,7 +12,7 @@ Lyrics is displayed of the song whose title is clicked.
 3. This site is **responsive** and it renders accordingly for mobile and laptops.
 
 4. There is no _collision_ of playing multiple songs _simultaneously_ because if one song is playing then if other song is clicked to play then previous will be _paused_.
-5. All songs have button **'^'** in top center of video. When clicked on them then that video song is played at top of page of every other songs. 
+5. All songs have button **'⌃'** in top center of video. When clicked on them then that video song is played at top of page of every other songs. 
 6.  For the song playing at top there are two _navigation buttons_ to move to _next_ song and _previous_ song. 
 
 7. There is another button at top-left corner to toggle repeat **'off'** or **'all'**. When the repeat is toggled to **all** the song once ended then next songs starts playing. This applied for both songs playing in the _grid_ and songs playing at _top_. 
