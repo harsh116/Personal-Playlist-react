@@ -2,6 +2,31 @@
 https://harsh116.github.io/Personal-Playlist-react/
 
  <img src="https://drive.google.com/uc?export=view&id=1zqKt7kcm65Y4wAAH6gzG33L-5GmUk04k" alt="lyrics panel" width="300"/>
+ <br>
+ <br>
+ <br>
+ ###Opening Lyrics Panel
+ <img src="https://drive.google.com/uc?export=view&id=1bLvcareO9Domc0DEwAtJ2Gs0UXQ7p2tL" alt="lyrics panel" width="250"/>  
+ 
+ <br>
+ <br>
+ 
+ ###Playing at Top
+ <img src="https://drive.google.com/uc?export=view&id=1fL_DN_BfDMiSBcRgNoH8RV8Ei5auJ6Ea" alt="lyrics panel" width="250"/>  
+ 
+ <img src="https://drive.google.com/uc?export=view&id=1ytAyto_odUFuvLozEGtk4YRlhPfeHISy" alt="lyrics panel" width="250"/>
+ <br>
+ <br>
+ 
+ ###Tooltip
+ <img src="https://drive.google.com/uc?export=view&id=12-2An2XZfdbWmtL782Zg5yI1LXW1IZ0o" alt="lyrics panel" width="250"/>
+ 
+ <br>
+ <br>
+ ###In Mobile
+ <img src="https://drive.google.com/uc?export=view&id=1-QfMhOMOYkseube_U4kP4dHKOLFzV3dQ" alt="lyrics panel" width="250"/>
+ <br>
+ <br>
 
 This website contains some of my favorite songs in grid format.
 
