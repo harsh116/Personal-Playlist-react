@@ -5,25 +5,25 @@ https://harsh116.github.io/Personal-Playlist-react/
  <br>
  <br>
  <br>
- ###Opening Lyrics Panel
+ <h3>Opening Lyrics Panel</h3>
  <img src="https://drive.google.com/uc?export=view&id=1bLvcareO9Domc0DEwAtJ2Gs0UXQ7p2tL" alt="lyrics panel" width="250"/>  
  
  <br>
  <br>
  
- ###Playing at Top
+ <h3>Playing at Top</h3>
  <img src="https://drive.google.com/uc?export=view&id=1fL_DN_BfDMiSBcRgNoH8RV8Ei5auJ6Ea" alt="lyrics panel" width="250"/>  
  
  <img src="https://drive.google.com/uc?export=view&id=1ytAyto_odUFuvLozEGtk4YRlhPfeHISy" alt="lyrics panel" width="250"/>
  <br>
  <br>
  
- ###Tooltip
+ <h3>Tooltip</h3>
  <img src="https://drive.google.com/uc?export=view&id=12-2An2XZfdbWmtL782Zg5yI1LXW1IZ0o" alt="lyrics panel" width="250"/>
  
  <br>
  <br>
- ###In Mobile
+ <h3>In Mobile</h3>
  <img src="https://drive.google.com/uc?export=view&id=1-QfMhOMOYkseube_U4kP4dHKOLFzV3dQ" alt="lyrics panel" width="250"/>
  <br>
  <br>
