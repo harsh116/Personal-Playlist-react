@@ -9,7 +9,7 @@ This website contains some of my favorite songs in grid format.
 Lyrics is displayed of the song whose title is clicked. 
 
 2. When hovered in video rendered in _grid_(not for video playing at top) a **tooltip** is displayed containing description of the respective song.
-3. This site is **respoinsive** and it renders accordingly for mobile and laptops.
+3. This site is **responsive** and it renders accordingly for mobile and laptops.
 
 4. There is no _collision_ of playing multiple songs _simultaneously_ because if one song is playing then if other song is clicked to play then previous will be _paused_.
 5. All songs have button **"^"** in top center of video. When clicked on them then that video song is played at top of page of every other songs. 
