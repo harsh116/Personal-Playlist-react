@@ -56,7 +56,7 @@ export const aboutDatabase=[
 	{
 		title: 'What We Don\'t Know   --Linkin Park',
 		image: 'images/what we don\'t know.jpg',
-		details: 'This song depicts the phase when someone is tired of just continuing on with his life. He wants to take a break and think about what he had done in his life and instead of suppressing emotions, he wants to let them out. He is regretting that he should have listened to his heart than his brain. He realized the point of his fall but he also said answers will find us in the end due to his doubts and realization is the new beginning in his life.',
+		details: 'This song depicts the phase when someone is tired of just continuing on with his life. He wants to take a break and think about what he had done in his life and instead of suppressing emotions, he wants to let them out. He is regretting that he should have listened to his heart than his brain. He realized the point of his fall but he also said answers will find us in the end due to his doubts. Also, realization is the new beginning in his life.',
 	},
 
 	{
