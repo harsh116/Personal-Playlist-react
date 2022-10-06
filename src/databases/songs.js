@@ -15,7 +15,7 @@ export const songs=[
   },
   {
   	name: "you_know_my_name",
-  	poster: "thumbnails/you know my name.jpg",
+  	poster: "thumbnails/you_know_my_name.jpg",
   	link: "https://drive.google.com/uc?export=download&id=1FZjZshWtvmL-iqeXwMkYibTQ0wG3cU9S",
   	// link: "videos/You Know My Name.mp4" ,
   	title: "You Know My Name   --Chris Cornell"
@@ -89,7 +89,7 @@ export const songs=[
   },
   {
   	name: "high_for_this",
-  	poster: "thumbnails/high for this.jpg",
+  	poster: "thumbnails/high_for_this.jpg",
   	link: 'https://drive.google.com/uc?export=download&id=1RSNkOJlys-fT3YSSaiBH4l9H7c5_Foop' ,
   	title: "High For This  --Weeknd"
   }
