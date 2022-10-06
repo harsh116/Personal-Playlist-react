@@ -1,10 +1,6 @@
 export const higherQuality=[
 	
-		{
-		name: "twenty_eight",
-		title: "Twenty Eight   --Weeknd",
-		link: "https://drive.google.com/uc?export=download&id=1wRHFXrh1Uxu9C3lBcpCLfY8EuYlsYm9v"
-	} ,
+	
 	{
 		name: "the_town",
 		title: "The Town   --Weeknd",

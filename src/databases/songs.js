@@ -65,9 +65,10 @@ export const songs=[
   {
   	name: "twenty_eight",
   	poster: "thumbnails/twenty eight.jpg",
-  	link: "https://drive.google.com/uc?export=download&id=1qrduxAbtZLGXYq45XdM2HW5ZxuY-dC7q",
+  	link: "https://drive.google.com/uc?export=download&id=1XLHacVf5CvAg3nCV7leL5oWuuiVhNmnP",
   	title: "Twenty Eight   --Weeknd"
   },
+  
   {
   	name: "faith",
   	poster: "thumbnails/faith.jpg",
