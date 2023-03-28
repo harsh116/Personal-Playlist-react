@@ -3,7 +3,7 @@ import {OPEN_LYRICS_PANEL,CLOSE_LYRICS_PANEL,REQUEST_LYRICS,
 		TOGGLE_REPEAT,PLAY_NEXT_VIDEO,PLAY_NEXT_VIDEO_AT_TOP,CLEAR_LYRICS,
 		NEXT_TRACK,PREVIOUS_TRACK,TOGGLE_QUALITY} from './databases/constants';
 
-const openPanel=()=>
+const openPanel=()=> 
 {
 	return({
 		type: OPEN_LYRICS_PANEL
