@@ -104,7 +104,7 @@
   z-index: 20;
   overflow-x: hidden;
   background-image: linear-gradient(to bottom,#FFFFBA,#2A6A89);
-  transition: 0.5s;
+  transition: 0.5s ease-in-out;
   /*padding: 0.5rem;*/
 
 }
@@ -147,6 +147,8 @@ body{
   background-attachment: fixed;
 
   margin-left: 0px;
+
+  /*scroll-behavior: smooth !important;*/
   /*margin-top: 0px;*/
 }
 
@@ -353,5 +355,16 @@ body{
   body{
     /*width: 100%;*/
   }
+}
+
+@media only screen and (min-width: 700px)
+{
+  body{
+    height: 100%;
+  }
+}
+
+html{
+  scroll-behavior: smooth;
 }
 
