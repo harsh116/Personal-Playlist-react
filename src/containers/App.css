@@ -178,9 +178,15 @@ body{
   color: white;
   font-size: 1.5em;
   margin-left: 15px;
+  background-color: rgb(29, 28, 36,0.8);
 
 
 }
+
+.arial{
+  font-family: 'Arial';
+}
+
 .abril{
   /*font-family: 'Abril Fatface', cursive;*/
   font-family: 'Arial';
