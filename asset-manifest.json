@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Personal-Playlist-react/static/css/main.14e88289.chunk.css",
-    "main.js": "/Personal-Playlist-react/static/js/main.9bc322b2.chunk.js",
-    "main.js.map": "/Personal-Playlist-react/static/js/main.9bc322b2.chunk.js.map",
-    "runtime-main.js": "/Personal-Playlist-react/static/js/runtime-main.07ef6a21.js",
-    "runtime-main.js.map": "/Personal-Playlist-react/static/js/runtime-main.07ef6a21.js.map",
-    "static/css/2.fe359a49.chunk.css": "/Personal-Playlist-react/static/css/2.fe359a49.chunk.css",
-    "static/js/2.93bbff74.chunk.js": "/Personal-Playlist-react/static/js/2.93bbff74.chunk.js",
-    "static/js/2.93bbff74.chunk.js.map": "/Personal-Playlist-react/static/js/2.93bbff74.chunk.js.map",
-    "static/js/3.57658c5d.chunk.js": "/Personal-Playlist-react/static/js/3.57658c5d.chunk.js",
-    "static/js/3.57658c5d.chunk.js.map": "/Personal-Playlist-react/static/js/3.57658c5d.chunk.js.map",
+    "main.css": "/Personal-Playlist-react/static/css/main.43201350.chunk.css",
+    "main.js": "/Personal-Playlist-react/static/js/main.9ecb6117.chunk.js",
+    "main.js.map": "/Personal-Playlist-react/static/js/main.9ecb6117.chunk.js.map",
+    "runtime-main.js": "/Personal-Playlist-react/static/js/runtime-main.7e9e5a13.js",
+    "runtime-main.js.map": "/Personal-Playlist-react/static/js/runtime-main.7e9e5a13.js.map",
+    "static/css/2.e060894b.chunk.css": "/Personal-Playlist-react/static/css/2.e060894b.chunk.css",
+    "static/js/2.c7ae1e60.chunk.js": "/Personal-Playlist-react/static/js/2.c7ae1e60.chunk.js",
+    "static/js/2.c7ae1e60.chunk.js.map": "/Personal-Playlist-react/static/js/2.c7ae1e60.chunk.js.map",
+    "static/js/3.cfd271f7.chunk.js": "/Personal-Playlist-react/static/js/3.cfd271f7.chunk.js",
+    "static/js/3.cfd271f7.chunk.js.map": "/Personal-Playlist-react/static/js/3.cfd271f7.chunk.js.map",
     "index.html": "/Personal-Playlist-react/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/Personal-Playlist-react/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.14e88289.chunk.css.map": "/Personal-Playlist-react/static/css/main.14e88289.chunk.css.map",
-    "static/js/2.93bbff74.chunk.js.LICENSE.txt": "/Personal-Playlist-react/static/js/2.93bbff74.chunk.js.LICENSE.txt",
+    "static/css/2.e060894b.chunk.css.map": "/Personal-Playlist-react/static/css/2.e060894b.chunk.css.map",
+    "static/css/main.43201350.chunk.css.map": "/Personal-Playlist-react/static/css/main.43201350.chunk.css.map",
+    "static/js/2.c7ae1e60.chunk.js.LICENSE.txt": "/Personal-Playlist-react/static/js/2.c7ae1e60.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Personal-Playlist-react/static/media/back2.7e77ecc4.jpg",
     "static/media/logo.6ce24c58.svg": "/Personal-Playlist-react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.07ef6a21.js",
-    "static/css/2.fe359a49.chunk.css",
-    "static/js/2.93bbff74.chunk.js",
-    "static/css/main.14e88289.chunk.css",
-    "static/js/main.9bc322b2.chunk.js"
+    "static/js/runtime-main.7e9e5a13.js",
+    "static/css/2.e060894b.chunk.css",
+    "static/js/2.c7ae1e60.chunk.js",
+    "static/css/main.43201350.chunk.css",
+    "static/js/main.9ecb6117.chunk.js"
   ]
 }
