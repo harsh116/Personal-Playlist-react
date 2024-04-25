@@ -107,6 +107,19 @@ export const songs=[
   	// link: 'https://drive.google.com/uc?export=download&id=1RSNkOJlys-fT3YSSaiBH4l9H7c5_Foop' ,
     link : 'https://od.lk/s/OF8xODc2NDQ5NjZf/The%20Weeknd%20-%20High%20For%20This%20%28LYRICS%29_HD.mp4',
   	title: "High For This  --Weeknd"
+  },
+
+  {
+    name : 'bohemian_rhapsody',
+    poster : 'thumbnails/bohemian rhapsody.jpg',
+    link : 'https://od.lk/s/OF8xODc2NDU5Mjhf/Queen%20Bohemian%20Rhapsody%20Official%20Video%20Remastered_480p.mp4',
+    title : "Bohemian Rhapsody   --Queen"
+  },
+  {
+    name : 'jesus_of_suburbia',
+    poster: 'thumbnails/jesus of suburbia.jpg',
+    link : 'https://od.lk/s/OF8xODc2NDU5Njdf/Green%20Day%20Jesus%20of%20Suburbia%20Lyrics%20HD_480p.mp4',
+    title : "Jesus Of Suburbia   --Green Day"
   }
 ];
 

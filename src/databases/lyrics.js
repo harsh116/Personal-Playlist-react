@@ -1026,5 +1026,253 @@ Ooh, woah\n\
 You wanna be high for this, yeah\n\
 You wanna be high for this\n\
 "
+	},
+	{
+		title : "Bohemian Rhapsody   --Queen",
+		lyrics : "[Intro]\n\
+Is this the real life? Is this just fantasy?\n\
+Caught in a landslide, no escape from reality\n\
+Open your eyes, look up to the skies and see\n\
+I'm just a poor boy, I need no sympathy\n\
+Because I'm easy come, easy go, little high, little low\n\
+Any way the wind blows doesn't really matter to me, to me\n\
+\n\
+[Verse 1]\n\
+Mama, just killed a man\n\
+Put a gun against his head, pulled my trigger, now he's dead\n\
+Mama, life had just begun\n\
+But now I've gone and thrown it all away\n\
+Mama, ooh, didn't mean to make you cry\n\
+If I'm not back again this time tomorrow\n\
+Carry on, carry on as if nothing really matters\n\
+\n\
+[Verse 2]\n\
+Too late, my time has come\n\
+Sends shivers down my spine, body's aching all the time\n\
+Goodbye, everybody, I've got to go\n\
+Gotta leave you all behind and face the truth\n\
+Mama, ooh (Any way the wind blows)\n\
+I don't want to die\n\
+I sometimes wish I'd never been born at all\n\
+You might also like\n\
+Bohemian Rhapsody (Live Aid)\n\
+Queen\n\
+Bohemian Rhapsody\n\
+Queen\n\
+Another One Bites the Dust\n\
+Queen\n\
+[Verse 3]\n\
+I see a little silhouetto of a man\n\
+Scaramouche, Scaramouche, will you do the Fandango?\n\
+Thunderbolt and lightning, very, very fright'ning me\n\
+(Galileo) Galileo (Galileo) Galileo, Galileo Figaro magnifico\n\
+I'm just a poor boy, nobody loves me\n\
+He's just a poor boy from a poor family\n\
+Spare him his life from this monstrosity\n\
+Easy come, easy go, will you let me go?\n\
+Bismillah! No, we will not let you go\n\
+(Let him go!) Bismillah! We will not let you go\n\
+(Let him go!) Bismillah! We will not let you go\n\
+(Let me go) Will not let you go\n\
+(Let me go) Will not let you go\n\
+(Never let me go) Ah\n\
+No, no, no, no, no, no, no\n\
+(Oh mamma mia, mamma mia) Mamma mia, let me go\n\
+Beelzebub has a devil put aside for me, for me, for me!\n\
+\n\
+[Verse 4]\n\
+So you think you can stone me and spit in my eye?\n\
+So you think you can love me and leave me to die?\n\
+Oh, baby, can't do this to me, baby!\n\
+Just gotta get out, just gotta get right outta here!\n\
+\n\
+[Outro]\n\
+Nothing really matters, anyone can see\n\
+Nothing really matters\n\
+Nothing really matters to me\n\
+Any way the wind blows\n\
+"
+	},
+	{
+		 title : "Jesus Of Suburbia   --Green Day",
+		 lyrics : "[Part I: Jesus of Suburbia]\n\
+\n\
+[Verse 1: Billie Joe Armstrong]\n\
+I'm the son of rage and love\n\
+The Jesus of Suburbia\n\
+The bible of \"none of the above\"\n\
+On a steady diet of\n\
+Soda pop and Ritalin\n\
+No one ever died for my\n\
+Sins in Hell as far as I can tell\n\
+'Least the ones I got away with\n\
+\n\
+[Chorus: Billie Joe Armstrong]\n\
+And there's nothin' wrong with me\n\
+This is how I'm supposed to be\n\
+In a land of make-believe\n\
+That don't believe in me\n\
+\n\
+[Verse 2: Billie Joe Armstrong]\n\
+Get my television fix\n\
+Sitting on my crucifix\n\
+A living room on my private womb\n\
+While the moms and Brads are away\n\
+To fall in love and fall in debt\n\
+To alcohol and cigarettes\n\
+And Mary Jane to keep me insane\n\
+Doin' someone else's cocaine\n\
+See Green Day Live\n\
+Get tickets as low as $40\n\
+You might also like\n\
+American Idiot\n\
+Green Day\n\
+Boulevard of Broken Dreams\n\
+Green Day\n\
+Holiday\n\
+Green Day\n\
+[Chorus: Billie Joe Armstrong]\n\
+And there's nothin' wrong with me\n\
+This is how I'm supposed to be\n\
+In a land of make-believe\n\
+That don't believe in me\n\
+\n\
+[Drum Solo]\n\
+\n\
+[Part II: City of the Damned]\n\
+\n\
+[Verse 3: Billie Joe Armstrong]\n\
+At the center of the Earth in the parking lot\n\
+Of the 7-Eleven where I was taught\n\
+The motto was just a lie\n\
+It says \"home is where your heart is,\" but what a shame\n\
+'Cause everyone's heart doesn't beat the same\n\
+It's beating out of time\n\
+\n\
+[Chorus: Billie Joe Armstrong & Mike Dirnt]\n\
+City of the dead (Hey, hey)\n\
+At the end of another lost highway (Hey, hey)\n\
+Signs misleading to nowhere\n\
+City of the damned (Hey, hey)\n\
+Lost children with dirty faces today (Hey, hey)\n\
+No one really seems to care\n\
+[Verse 4: Billie Joe Armstrong]\n\
+I read the graffiti in the bathroom stall\n\
+Like the holy scriptures of the shopping mall\n\
+And so it seemed to confess\n\
+It didn't say much, but it only confirmed\n\
+That the center of the Earth is the end of the world\n\
+And I could really care less\n\
+\n\
+[Chorus: Billie Joe Armstrong & Mike Dirnt]\n\
+City of the dead (Hey, hey)\n\
+At the end of another lost highway (Hey, hey)\n\
+Signs misleading to nowhere\n\
+City of the damned (Hey, hey)\n\
+Lost children with dirty faces today (Hey, hey)\n\
+No one really seems to care (Hey)\n\
+\n\
+[Part III: I Don't Care]\n\
+\n\
+[Intro: Billie Joe Armstrong]\n\
+I don't care if you don't\n\
+I don't care if you don't\n\
+I don't care if you don't care\n\
+I don't care if you don't\n\
+I don't care if you don't\n\
+I don't care if you don't care\n\
+I don't care if you don't\n\
+I don't care if you don't\n\
+I don't care if you don't care\n\
+I don't care if you don't\n\
+I don't care if you don't\n\
+I don't care if you don't care\n\
+I don't care\n\
+[Verse 5: Billie Joe Armstrong]\n\
+Everyone's so full of shit\n\
+Born and raised by hypocrites\n\
+Hearts recycled, but never saved\n\
+From the cradle to the grave\n\
+We are the kids of war and peace\n\
+From Anaheim to the Middle East\n\
+We are the stories and disciples of\n\
+The Jesus of Suburbia\n\
+\n\
+[Chorus: Billie Joe Armstrong]\n\
+Land of make-believe\n\
+And it don't believe in me\n\
+Land of make-believe (Said now it's, it's another lie)\n\
+And I don't believe\n\
+\n\
+[Outro: Billie Joe Armstrong]\n\
+And I don't care (Hoo, hoo, hoo)\n\
+I don't care (Hoo, hoo, hoo)\n\
+I don't care, ah (Hoo, hoo, hoo)\n\
+I don't care, ah (Hoo, hoo, hoo)\n\
+I don't care\n\
+\n\
+[Part IV: Dearly Beloved]\n\
+\n\
+[Verse 6: Billie Joe Armstrong]\n\
+Dearly beloved, are you listening?\n\
+I can't remember a word that you were sayin'\n\
+Are we demented or am I disturbed?\n\
+The space that's in between insane and insecure\n\
+\n\
+[Refrain: Billie Joe Armstrong]\n\
+Ooh, ooh-ooh-ooh\n\
+Ooh, ooh-ooh\n\
+\n\
+[Verse 7: Billie Joe Armstrong]\n\
+(Ooh, ooh) Oh therapy, can you please fill the void?\n\
+(Ooh, ooh-ooh) Am I retarded or am I just overjoyed?\n\
+(Ooh, ooh) Nobody's perfect and I stand accused\n\
+(Ooh, ooh-ooh) For lack of a better word and that's my best excuse\n\
+Ah\n\
+\n\
+[Refrain: Billie Joe Armstrong]\n\
+Ooh, ooh-ooh-ooh\n\
+Ooh, ooh-ooh\n\
+\n\
+[Part V: Tales of Another Broken Home]\n\
+\n\
+[Verse 8: Billie Joe Armstrong]\n\
+To live and not to breathe\n\
+Is to die in tragedy\n\
+To run, to run away\n\
+To find what you believe\n\
+\n\
+[Chorus: Billie Joe Armstrong]\n\
+And I leave behind\n\
+This hurricane of fuckin' lies\n\
+\n\
+[Verse 9: Billie Joe Armstrong]\n\
+I lost my faith to this\n\
+This town that don't exist\n\
+So I run, I run away\n\
+To the light of masochists\n\
+\n\
+[Chorus: Billie Joe Armstrong]\n\
+And I leave behind\n\
+This hurricane of fuckin' lies\n\
+And I've walked this line\n\
+A million and one fuckin' times\n\
+But not this time\n\
+\n\
+[Guitar Solo]\n\
+\n\
+[Bridge: Billie Joe Armstrong]\n\
+I don't feel any shame, I won't apologize\n\
+When there ain't nowhere you can go\n\
+Runnin' away from pain when you've been victimized\n\
+Tales from another broken\n\
+\n\
+[Outro: Billie Joe Armstrong]\n\
+Home\n\
+You're leavin'\n\
+You're leavin'\n\
+You're leavin'\n\
+Ah, you're leavin' home\n\
+"
 	}
 ]

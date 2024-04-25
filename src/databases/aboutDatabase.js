@@ -88,4 +88,14 @@ export const aboutDatabase=[
 		image: 'images/high for this lyricsinterpretation.jpg' ,
 		details: 'This song has dark music and lyrics and depicts about dark twisted fantasy and have exceptional high notes. In this song the weeknd is trying to convice a girl to take ecstasy for the first time as she dont know what to expect. He is assuring and confort her to spend the night with her by reassuring what he is doing is good.' ,
 	},
+	{
+		title : "Bohemian Rhapsody   --Queen",
+		image : 'images/bohemian rhapsody about.jpg',
+		details : "The title of the song is Bohemian Rhapsody . So, a rhapsody is a type of song that has an irregular form, with lots of improvisation,a sort of free structure, and it's often very emotional in character. So, this is a bohemian rhapsody. Bohemian is a word which describes a person who’s sort of unconventional, who lives a lifestyle that's a bit abnormal, almost in an artistic way.\nThere are several interpretations of this song and Freddie Mercury never revealed its true meaning and left it to listerners themselves. This song is 6 minutes long and have no chorus. The art and style of this very similar to Shakespeare play"
+	},
+	{
+		title : "Jesus Of Suburbia   --Green Day",
+		image : 'images/jesus_sof_suburbia_about.jpg',
+		details : "The song tells the tale of suburban Jesus, a working class teen without faith or direction. In telling his story, important issues are encountered with a focus on the working class teen.  The shallow and hypocritical nature of mainstream media is also touched upon. The music flows between the five parts like a rock opera, and it works with the lyrics to give us a deeper sense of the challenges Jesus faces. It's capturing a feeling that so many of us have felt; feeling trapped in the town you grew up in, with the pressures of achieving some future prescribed to you by people who don't really care.\n\nThis song is teenager's national anthem as it captures the emotions about how they feel about society and their hypocrisy. Bille during interview has said that there is so much emotion in the song that it is hard to describe all that in mere words."
+	}
 ]
